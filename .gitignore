@@ -1,0 +1,7 @@
+.idea/*
+data/*
+src/tmp-runs/*
+src/prediction/*
+src/model/*
+*/*.vec
+*/*.vec.pt
