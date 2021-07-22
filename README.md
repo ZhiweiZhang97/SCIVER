@@ -1,4 +1,4 @@
-# SCIVER
+# SCIVER(Pipeline Model)
 
 This work is for Shared Tasks of Scholarly Document Processing(@ NAACL 2021) -- **SCIVER: Verifying Scientific Claims with Evidence**
 ## 
